@@ -1,2 +1,2 @@
-# Hospital-Managment-System
-A patient will have a unique patient ID. Full description about the patient, his/her disease and what treatment going on will be detailed, based on number of days bill treatment will be generated.
+# Django Blog
+Blog style application where diffrent users can write diffrent post...with an authentication system, posts can also be deleted or edited , emails will also be sent in other to reset passowrd
